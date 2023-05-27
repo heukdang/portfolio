@@ -1,0 +1,59 @@
+/*목차와 본문*/
+@font-face {
+font-family:NanumGothic;
+src: url("../Fonts/NanumGothic.ttf");
+}
+
+@font-face {
+font-family:NanumGothicBold;
+src: url("../Fonts/NanumGothicBold.ttf");
+}
+
+@font-face {
+font-family:NanumSquareRoundEB;
+src: url("../Fonts/NanumSquareRoundEB.ttf");
+}
+
+
+@font-face {
+font-family:NanumSquareB;
+src: url("../Fonts/NanumSquareB.ttf");
+}
+
+h1{
+font-family:NanumGothicBold;
+font-size:1.5em;
+text-align:center;
+}
+
+h2{
+font-family:NanumGothicBold;
+font-size:1.2em;
+}
+
+p{
+font-family:NanumGothic;
+font-size:1em;
+}
+
+span{
+font-family:NanumGothicBold;
+font-size:1em;
+color:black;
+}
+
+.p1 {
+font-family:NanumGothicBold;
+font-size:1em;
+color:gray;
+border-left:4px solid gray;/*옆선 굵기 선종류 색상*/
+padding-left:0.5em; /*내부여백 왼쪽*/
+}
+
+.p2 {
+font-size:0.8em;
+border:1px solid gray;/*경계선 선굵기 선종류 선색상*/
+padding:1em; /*내부여백 사방*/
+background-color: lightgray;/*배경색상*/
+border-bottom:4px solid gray);/*밑선 굵기 선종류 색상*/
+}

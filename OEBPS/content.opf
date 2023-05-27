@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:c3bdfc33-e20f-45c2-a5ed-4cd825e6e3fa</dc:identifier>
+    <dc:language>ko</dc:language>
+    <dc:title>[Title here]</dc:title>
+    <meta name="Sigil version" content="1.9.30"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2023-05-27</dc:date>
+    <meta name="cover" content="cover.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="Section0002.xhtml" href="Text/Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
+    <item id="NanumGothic.ttf" href="Fonts/NanumGothic.ttf" media-type="application/x-font-ttf"/>
+    <item id="NanumGothicBold.ttf" href="Fonts/NanumGothicBold.ttf" media-type="application/x-font-ttf"/>
+    <item id="NanumSquareB.ttf" href="Fonts/NanumSquareB.ttf" media-type="application/x-font-ttf"/>
+    <item id="NanumSquareRoundEB.ttf" href="Fonts/NanumSquareRoundEB.ttf" media-type="application/x-font-ttf"/>
+    <item id="logo.jpg" href="Images/logo.jpg" media-type="image/jpeg"/>
+    <item id="Style0002.css" href="Styles/Style0002.css" media-type="text/css"/>
+    <item id="Section0004.xhtml" href="Text/Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0005.xhtml" href="Text/Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Style0003.css" href="Styles/Style0003.css" media-type="text/css"/>
+    <item id="Section0006.xhtml" href="Text/Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Style0004.css" href="Styles/Style0004.css" media-type="text/css"/>
+    <item id="Section0007.xhtml" href="Text/Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Style0005.css" href="Styles/Style0005.css" media-type="text/css"/>
+    <item id="Style0006.css" href="Styles/Style0006.css" media-type="text/css"/>
+    <item id="Section0008.xhtml" href="Text/Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="tower.jpg" href="Images/tower.jpg" media-type="image/jpeg"/>
+    <item id="Section0009.xhtml" href="Text/Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0010.xhtml" href="Text/Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="coin.jpg" href="Images/coin.jpg" media-type="image/jpeg"/>
+    <item id="Section0011.xhtml" href="Text/Section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0012.xhtml" href="Text/Section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="heart-159636_1280.png" href="Images/heart-159636_1280.png" media-type="image/png"/>
+    <item id="Section0013.xhtml" href="Text/Section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0014.xhtml" href="Text/Section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Style0007.css" href="Styles/Style0007.css" media-type="text/css"/>
+    <item id="Section0015.xhtml" href="Text/Section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="backcover.jpg" href="Images/backcover.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
+    <itemref idref="Section0012.xhtml"/>
+    <itemref idref="Section0013.xhtml"/>
+    <itemref idref="Section0014.xhtml"/>
+    <itemref idref="Section0015.xhtml"/>
+  </spine>
+</package>
