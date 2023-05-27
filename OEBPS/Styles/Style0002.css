@@ -1,0 +1,38 @@
+/*목차와 본문*/
+@font-face {
+font-family:NanumGothic;
+src: url("../Fonts/NanumGothic.ttf");
+}
+
+@font-face {
+font-family:NanumGothicBold;
+src: url("../Fonts/NanumGothicBold.ttf");
+}
+
+@font-face {
+font-family:NanumSquareRoundEB;
+src: url("../Fonts/NanumSquareRoundEB.ttf");
+}
+
+
+@font-face {
+font-family:NanumSquareB;
+src: url("../Fonts/NanumSquareB.ttf");
+}
+
+h1{
+font-family:NanumGothicBold;
+font-size:1.5em;
+text-align:center;
+}
+
+h2{
+font-family:NanumGothicBold;
+font-size:1.2em;
+}
+
+p{
+font-family:NanumGothic;
+font-size:1em;
+}
+

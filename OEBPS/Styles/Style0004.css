@@ -1,0 +1,34 @@
+/*속지*/
+
+@font-face {
+font-family:NanumGothic;
+src: url("../Fonts/NanumGothic.ttf");
+}
+
+@font-face {
+font-family:NanumGothicBold;
+src: url("../Fonts/NanumGothicBold.ttf");
+}
+
+@font-face {
+font-family:NanumSquareRoundEB;
+src: url("../Fonts/NanumSquareRoundEB.ttf");
+}
+
+
+@font-face {
+font-family:NanumSquareB;
+src: url("../Fonts/NanumSquareB.ttf");
+}
+
+h1{
+border-right:1px dotted navy;
+border-left:1px dotted navy;
+margin-left:40%; 
+margin-top:30%;
+width:15%; 
+text-align:center;
+font-family:NanumSquareRoundEB;
+font-size:1.5em;
+color:rgb(38,99,143);
+}

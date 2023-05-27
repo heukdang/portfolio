@@ -1,0 +1,54 @@
+/*한국현대소설 속지*/
+@font-face {
+font-family:NanumGothic;
+src: url("../Fonts/NanumGothic.ttf");
+}
+
+@font-face {
+font-family:NanumGothicBold;
+src: url("../Fonts/NanumGothicBold.ttf");
+}
+
+@font-face {
+font-family:NanumSquareRoundEB;
+src: url("../Fonts/NanumSquareRoundEB.ttf");
+}
+
+
+@font-face {
+font-family:NanumSquareB;
+src: url("../Fonts/NanumSquareB.ttf");
+}
+
+
+.p1{
+font-family:NanumGothicBold;
+font-size:0.9em;
+color:gray;
+text-align:center;
+}
+
+h1{
+margin-top:-7px; padding:0px;
+text-align:center;
+}
+
+.p2{
+font-family:NanumSquareRoundEB;
+font-size:1.5em;
+text-align:center;
+}
+
+.p4{
+color:rgb(38,99,143);
+}
+
+.p3{
+font-family:NanumSquareB;
+font-size:1em;
+text-align:center;
+}
+
+img {
+width:35%;
+}
